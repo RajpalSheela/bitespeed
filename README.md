@@ -1,10 +1,10 @@
 # bitespeed
 
-service endpoint:- https://indentity-reconsilation-service.onrender.com/identify/ping
+service endpoint:- https://rajpal-bitespeed.onrender.com/ping
 
 sample curl
 ```
-curl --location 'https://indentity-reconsilation-service.onrender.com/identify' \
+curl --location 'https://https://rajpal-bitespeed.onrender.com/identify' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "email": "rajpal630@gamil.com",
@@ -13,7 +13,7 @@ curl --location 'https://indentity-reconsilation-service.onrender.com/identify' 
 ```
 steps to test in postman:-
 ----------------------------
-1. enter the url `https://indentity-reconsilation-service.onrender.com/identify` in url bar.
+1. enter the url `https://rajpal-bitespeed.onrender.com/identify` in url bar.
 2. select http method as `POST`
 3. Goto body tab, select `none` and from dropdown select `json`. and provide body in json format sample:-
 {
