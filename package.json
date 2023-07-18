@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayush777aha/Identity-Reconciliation.git"
+    "url": "https://github.com/RajpalSheela/bitespeed.git"
   },
-  "author": "Ayush Garg",
+  "author": "Rajpal Sheela",
   "license": "ISC",
 
   "dependencies": {

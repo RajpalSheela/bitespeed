@@ -7,7 +7,7 @@ sample curl
 curl --location 'https://indentity-reconsilation-service.onrender.com/identify' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-    "email": "ayushgarg630@gamil.com",
+    "email": "rajpal630@gamil.com",
     "phoneNumber": "123459"
 }'
 ```
@@ -17,7 +17,7 @@ steps to test in postman:-
 2. select http method as `POST`
 3. Goto body tab, select `none` and from dropdown select `json`. and provide body in json format sample:-
 {
-    "email": "ayushgarg630@gamil.com",
+    "email": "rajpalgarg630@gamil.com",
     "phoneNumber": "123459"
 }
 4. hit `send` button
